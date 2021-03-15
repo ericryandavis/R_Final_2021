@@ -1,0 +1,51 @@
+State,Targets,Target_2030,Target_2050,Action_plan,Cap_trade,Electricity_standard,targets,target_2030,target_2050,action_plan,cap_trade,electricity_standard,label_2030,label_2050,plan_year
+Alabama,0,0,0,0,0,0,,,,,,,,,
+Alaska,0,0,0,0,0,0,,,,,,,,,
+Arizona,0,0,0,5,0,1,,,,Outdated,,RPS,,,2006
+Arkansas,0,0,0,0,0,0,,,,,,,,,
+California,3,1,2,1,3,2,Both,2030,2045,Released,WCI,CES,40% below 1990 levels by 2030,Net-zero by 2045,2017
+Colorado,3,1,1,1,0,1,Both,2030,2050,Released,,RPS,50% below 2005 levels by 2030,More than 90% reduction of total emissions by 2050,2021
+Connecticut,3,1,1,1,1,1,Both,2030,2050,Released,RGGI,RPS,45% below 2001 levels by 2030,80% below 1990 levels by 2050,2018
+Delaware,1,1,0,2,1,1,Executive,2030,,Updating,RGGI,RPS,30% below 2008 levels by 2030,,2021
+Florida,0,0,0,5,0,0,,,,Outdated,,,,,2008
+Georgia,0,0,0,0,0,0,,,,,,,,,
+Hawaii,2,0,2,5,0,0,Statutory,,2045,Outdated,,,,Net-zero by 2045,2009
+Idaho,0,0,0,0,0,0,,,,,,,,,
+Illinois,0,2,0,5,0,2,,2025,,Outdated,,CES,26-28% below 2005 levels by 2025,,2008
+Indiana,0,0,0,0,0,6,,,,,,CE Goal,,,
+Iowa,0,0,0,5,0,1,,,,Outdated,,RPS,,,2008
+Kansas,0,0,0,0,0,5,,,,,,RPS Goal,,,
+Kentucky,0,0,0,5,0,0,,,,Outdated,,,,,2011
+Louisiana,1,3,0,3,0,0,Executive,2025 & 2030,,Developing,,,26-28% below 2005 levels by 2025; 40-50% below 2005 levels by 2030,,2021
+Maine,3,1,1,1,1,1,Both,2030,2050,Released,RGGI,RPS,45% below 1990 levels by 2030,80% below 1990 levels by 2050,2020
+Maryland,2,1,2,2,1,1,Statutory,2030,2045,Updating,RGGI,RPS,40% below 2006 levels by 2030,Net-zero by 2045,2021
+Massachusetts,3,1,1,2,1,4,Both,2030,2050,Updating,RGGI,"RPS, CES, APS",45% below 1990 levels by 2030,Net-zero by 2050,2020
+Michigan,1,2,1,2,0,1,Executive,2025,2050,Updating,,RPS,26-28% below 2005 levels by 2025,Carbon-neutrality by 2050,2021
+Minnesota,3,1,1,2,0,1,Both,2030,2050,Updating,,RPS,30% below 2005 levels by 2030,80% below 2005 levels by 2050,2019
+Mississippi,0,0,0,0,0,0,,,,,,,,,
+Missouri,0,0,0,0,0,1,,,,,,RPS,,,
+Montana,1,3,0,1,0,1,Executive,2025 & 2030,,Released,,RPS,26% below 2005 levels by 2025; 45% below 2010 levels by 2030,,2020
+Nebraska,0,0,0,0,0,0,,,,,,,,,
+Nevada,2,3,1,1,0,2,Statutory,2025 & 2030,2050,Released,,CES,28% below 2005 levels by 2025; 45% below 2005 by 2030,0 or near 0 GHG emissions by 2050,2020
+New Hampshire,0,0,0,5,1,1,,,,Outdated,RGGI,RPS,,,2009
+New Jersey,3,0,1,2,1,1,Both,,2050,Updating,RGGI,RPS,,80% below 2006 levels by 2050,2020
+New Mexico,1,1,0,1,0,2,Executive,2030,,Released,,CES,45% below 2005 levels by 2030,,2019
+New York,2,1,1,2,1,2,Statutory,2030,2050,Updating,RGGI,CES,40% below 1990 levels by 2030,85% below 1990 levels by 2050; Net-zero by 2050,2019
+North Carolina,1,2,0,1,0,1,Executive,2025,,Released,,RPS,40% below 2005 levels by 2025,,2019
+North Dakota,0,0,0,0,0,5,,,,,,RPS Goal,,,
+Ohio,0,0,0,0,0,3,,,,,,APS,,,
+Oklahoma,0,0,0,0,0,5,,,,,,RPS Goal,,,
+Oregon,3,4,1,1,0,1,Both,2035,2050,Released,,RPS,45% below 1990 levels by 2035,At least 80% below 1990 levels by 2050,2020
+Pennsylvania,1,2,1,1,2,3,Executive,2025,2050,Released,RGGI Pending,APS,26% below 2005 levels by 2025,80% below 2005 levels by 2050,2018
+Rhode Island,3,4,1,1,1,1,Both,2035,2050,Released,RGGI,RPS,45% below 1990 levels by 2035,80% below 1990 levels by 2050,2018
+South Carolina,0,0,0,5,0,5,,,,Outdated,,RPS Goal,,,2008
+South Dakota,0,0,0,0,0,5,,,,,,RPS Goal,,,
+Tennessee,0,0,0,0,0,0,,,,,,,,,
+Texas,0,0,0,0,0,1,,,,,,RPS,,,
+Utah,0,0,0,0,0,5,,,,,,RPS Goal,,,
+Vermont,2,4,1,1,1,1,Statutory,2028,2050,Released,RGGI,RPS,50% below 1990 levels by 2028,75% below 1990 levels by 2050,2018
+Virginia,3,2,0,5,1,1,Both,2025,,Outdated,RGGI,RPS,26-28% below 2005 levels by 2025,,2008
+Washington,3,1,1,1,4,2,Both,2030,2050,Released,Baseline & Credit,CES,45% below 1990 levels by 2030,95% below 1990 levels by 2050; Net-zero by 2050 ,2012
+West Virginia,0,0,0,0,0,6,,,,,,Repealed,,,
+Wisconsin,1,2,0,2,0,1,Executive,2025,,Updating,,RPS,26-28% below 2005 levels by 2025,,2020
+Wyoming,0,0,0,0,0,0,,,,,,,,,
